@@ -89,6 +89,11 @@ layout: default
 
 # 荣誉与奖励 (Honors and Awards)
 
+- 2020.08, 第二届DataCon大数据安全竞赛-加密恶意流量检测 一等奖, The 1st Prize at the 2nd DataCon Big Data Security Contest-Encrypted Malicious Traffic Detection Track
+
+- 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
+
+- 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure 
 
 
 * * *
