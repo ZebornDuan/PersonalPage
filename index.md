@@ -14,7 +14,9 @@ layout: default
 - **硕士 清华大学 (M.S., Tsinghua University)**
   - 2019-08 ~ 2022.06
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace)
-  - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/))
+  - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
+
+<!-- a brief introduction to the research -->
 
 - **学士 清华大学 (B.E., Tsinghua University)**
   - 2015-08 ~ 2019.06
@@ -25,7 +27,7 @@ layout: default
 # 工作经历 (Work)
 
 
-- **算法工程师 阿里云 (Algorithm Engineer, Alibaba Cloud)**
+- **高级算法工程师 阿里云 (Senior Algorithm Engineer, Alibaba Cloud)**
   - 2022-07 ~ 
   - 基础设施事业部-天基-云资源智能化 (Alibaba Cloud - Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
 
@@ -53,6 +55,10 @@ layout: default
 * * *
 
 # 论文发表 (Publications)
+
+<!-- - Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024. -->
+
+<!-- - **Chenxin Duan**, Sainan Li, Hai Lin, Wenqi Chen, Guanglei Song, Chenglong Li, Jiahai Yang, Zhiliang Wang. "IoTa: Fine-grained Traffic Monitoring for IoT Devices via Fully Packet-level Models." IEEE Transactions on Dependable and Secure Computing (TDSC). 2023. -->
 
 - 樊琳娜, 李城龙, 吴毅超, **段晨鑫**, 王之梁, 林海, 杨家海. “物联网设备识别及异常检测研究综述.” 软件学报. 2023
 
