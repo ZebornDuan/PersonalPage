@@ -60,7 +60,7 @@ layout: default
 
 <!-- - **Chenxin Duan**, Sainan Li, Hai Lin, Wenqi Chen, Guanglei Song, Chenglong Li, Jiahai Yang, Zhiliang Wang. "IoTa: Fine-grained Traffic Monitoring for IoT Devices via Fully Packet-level Models." IEEE Transactions on Dependable and Secure Computing (TDSC). 2023. -->
 
-- 樊琳娜, 李城龙, 吴毅超, **段晨鑫**, 王之梁, 林海, 杨家海. “物联网设备识别及异常检测研究综述.” 软件学报. 2023
+- Linna Fan, Chenglong Li, Yichao Wu, **Chenxin Duan**, Zhiliang Wang, Hai Lin, Jiahai Yang. “Survey on IoT Device Identification and Anomaly Detection.” Journal of Software (软件学报). 2023.
 
 - Guanglei Song, Jiahai Yang, Lin He, Zhiliang Wang, Guo Li, **Chenxin Duan**, Yaozhong Liu, Zhongxiang Sun. “AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System.” USENIX Annual Technical Conference (ATC). 2022
 
