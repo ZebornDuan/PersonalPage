@@ -56,7 +56,7 @@ layout: default
 
 # 论文发表 (Publications)
 
-<!-- - Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024. -->
+- Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024.
 
 <!-- - **Chenxin Duan**, Sainan Li, Hai Lin, Wenqi Chen, Guanglei Song, Chenglong Li, Jiahai Yang, Zhiliang Wang. "IoTa: Fine-grained Traffic Monitoring for IoT Devices via Fully Packet-level Models." IEEE Transactions on Dependable and Secure Computing (TDSC). 2023. -->
 
