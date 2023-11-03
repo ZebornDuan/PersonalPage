@@ -12,15 +12,15 @@ layout: default
 * * *
 
 - **硕士 清华大学 (M.S., Tsinghua University)**
-  - 2019-08 ~ 2022.06
-  - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace)
+  - 2019.08 ~ 2022.06
+  - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
 
 <!-- a brief introduction to the research -->
 
 - **学士 清华大学 (B.E., Tsinghua University)**
-  - 2015-08 ~ 2019.06
-  - 计算机科学与技术系 (Department of Computer Science and Technology)
+  - 2015.08 ~ 2019.06
+  - 计算机科学与技术系 (Department of Computer Science and Technology) 计算机科学与技术专业 (Major: Computer Science and Technology)
 
 * * *
 
@@ -37,19 +37,19 @@ layout: default
 # 实习经历 (Internship) 
 
 - **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)**
-  - 2021-12 ~ 2022.01
+  - 2021.12 ~ 2022.01
   - 研发线-用户理解中心 (R&D line - User Understanding Center)
 
 - **安全研究实习生 字节跳动 (Security Research Intern, Bytedance)**
-  - 2021-06 ~ 2021.12
+  - 2021.06 ~ 2021.12
   - 安全与风控-安全研究 (Security - Security Research)
 
 - **Rust开发实习生 字节跳动 (Rust Development Intern, Bytedance)**
-  - 2020-12 ~ 2021.06
+  - 2020.12 ~ 2021.06
   - 飞书-通信基础设施 (Lark - Lark Messenger Infrastructure)
 
 - **后端开发实习生 字节跳动 (Backend Development Intern, Bytedance)**
-  - 2018-06 ~ 2019.07
+  - 2018.06 ~ 2019.07
   - 飞书-核心服务 (Lark - Lark Core Service)
 
 * * *
@@ -84,11 +84,11 @@ layout: default
 
 # 专利 (Patents)
 
-- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，PCT/CN2021/105260
+- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，PCT/CN2021/105260
 
-- 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6
+- 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6，已授权
 
-- 杨家海，**段晨鑫**，王之梁；基于包长概率分布与k近邻算法的物联网设备识别方法，202011506345.7
+- 杨家海，**段晨鑫**，王之梁；基于包长概率分布与k近邻算法的物联网设备识别方法，202011506345.7，已授权
 
 * * *
 
@@ -101,6 +101,4 @@ layout: default
 
 - 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure 
 
-
-* * *
 
