@@ -101,6 +101,4 @@ layout: default
 
 - 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure
 
-<!-- - 2023.11, [DataCon](https://datacon.qianxin.com/armory)2023 大数据安全竞赛-邮件安全赛道 优秀团队奖, Excellent Team Award at the DataCon2023 Big Data Security Contest-E-Mail Security Track -->
-
 
