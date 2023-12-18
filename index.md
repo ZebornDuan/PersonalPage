@@ -12,43 +12,53 @@ layout: default
 * * *
 
 - **硕士 清华大学 (M.S., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
-  - 2019.08 ~ 2022.06
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
+  - - 2019.08 ~ 2022.06
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
 
 <!-- a brief introduction to the research -->
 
 - **学士 清华大学 (B.E., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
-  - 2015.08 ~ 2019.06
   - 计算机科学与技术系 (Department of Computer Science and Technology) 计算机科学与技术专业 (Major: Computer Science and Technology)
+  - 2015.08 ~ 2019.06
 
 * * *
 
 # 工作经历 (Work)
 
-- **阿里云 应用算法工程师 (Alibaba Cloud, Application Algorithm Engineer)** <img src="/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
-  - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
+- **阿里云 应用算法工程师 (Alibaba Cloud, Application Algorithm Engineer)** <img src="/page/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
   - 基础设施事业部-天基-云资源智能化 (Alibaba Cloud - Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
+  - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
 
 * * *
 
 # 实习经历 (Internship) 
 
-- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="/assets/img/kwai.jpeg" width="60" height ="54" align=right />
-  - 2021.12 ~ 2022.01
+- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="/page/assets/img/kwai.jpeg" width="60" height ="54" align=right />
   - 研发线-用户理解中心 (R&D line - User Understanding Center)
+  - 2021.12 ~ 2022.01
 
-- **安全研究实习生 字节跳动 (Security Research Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
-  - 2021.06 ~ 2021.12
+- **安全研究实习生 字节跳动 (Security Research Intern, Bytedance)** <img src="/page/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 安全与风控-安全研究 (Security - Security Research)
+  - 2021.06 ~ 2021.12
 
-- **Rust开发实习生 字节跳动 (Rust Development Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
-  - 2020.12 ~ 2021.06
+- **Rust开发实习生 字节跳动 (Rust Development Intern, Bytedance)** <img src="/page/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 飞书-通信基础设施 (Lark - Lark Messenger Infrastructure)
+  - 2020.12 ~ 2021.06
 
-- **后端开发实习生 字节跳动 (Backend Development Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
-  - 2018.06 ~ 2019.07
+- **后端开发实习生 字节跳动 (Backend Development Intern, Bytedance)** <img src="/page/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 飞书-核心服务 (Lark - Lark Core Service)
+  - 2018.06 ~ 2019.07
+
+* * *
+
+# 荣誉与奖励 (Honors and Awards)
+
+- 2020.08, [DataCon](https://datacon.qianxin.com/armory)2020 大数据安全竞赛-加密恶意流量检测赛道 冠军, Champion at the DataCon2020 Big Data Security Contest-Encrypted Malicious Traffic Detection Track
+
+- 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
+
+- 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure
 
 * * *
 
@@ -87,16 +97,4 @@ layout: default
 - 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6，已授权
 
 - 杨家海，**段晨鑫**，王之梁；基于包长概率分布与k近邻算法的物联网设备识别方法，202011506345.7，已授权
-
-* * *
-
-
-# 荣誉与奖励 (Honors and Awards)
-
-- 2020.08, [DataCon](https://datacon.qianxin.com/armory)2020 大数据安全竞赛-加密恶意流量检测赛道 冠军, Champion at the DataCon2020 Big Data Security Contest-Encrypted Malicious Traffic Detection Track
-
-- 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
-
-- 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure
-
 
