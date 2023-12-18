@@ -11,7 +11,7 @@ layout: default
 
 * * *
 
-- **硕士 清华大学 (M.S., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
+- **硕士 清华大学 (M.S., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
   - 2019.08 ~ 2022.06
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
