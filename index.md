@@ -11,14 +11,14 @@ layout: default
 
 * * *
 
-- **硕士 清华大学 (M.S., Tsinghua University)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/thu.png" width="60" height ="60" align=right />
+- **硕士 清华大学 (M.S., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
   - 2019.08 ~ 2022.06
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
 
 <!-- a brief introduction to the research -->
 
-- **学士 清华大学 (B.E., Tsinghua University)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/thu.png" width="60" height ="60" align=right />
+- **学士 清华大学 (B.E., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
   - 2015.08 ~ 2019.06
   - 计算机科学与技术系 (Department of Computer Science and Technology) 计算机科学与技术专业 (Major: Computer Science and Technology)
 
@@ -26,7 +26,7 @@ layout: default
 
 # 工作经历 (Work)
 
-- **阿里云 应用算法工程师 (Alibaba Cloud, Application Algorithm Engineer)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
+- **阿里云 应用算法工程师 (Alibaba Cloud, Application Algorithm Engineer)** <img src="/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
   - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
   - 基础设施事业部-天基-云资源智能化 (Alibaba Cloud - Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
 
@@ -34,19 +34,19 @@ layout: default
 
 # 实习经历 (Internship) 
 
-- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/kwai.jpeg" width="60" height ="54" align=right />
+- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="/assets/img/kwai.jpeg" width="60" height ="54" align=right />
   - 2021.12 ~ 2022.01
   - 研发线-用户理解中心 (R&D line - User Understanding Center)
 
-- **安全研究实习生 字节跳动 (Security Research Intern, Bytedance)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/bytedance.png" width="60" height ="60" align=right />
+- **安全研究实习生 字节跳动 (Security Research Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 2021.06 ~ 2021.12
   - 安全与风控-安全研究 (Security - Security Research)
 
-- **Rust开发实习生 字节跳动 (Rust Development Intern, Bytedance)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/bytedance.png" width="60" height ="60" align=right />
+- **Rust开发实习生 字节跳动 (Rust Development Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 2020.12 ~ 2021.06
   - 飞书-通信基础设施 (Lark - Lark Messenger Infrastructure)
 
-- **后端开发实习生 字节跳动 (Backend Development Intern, Bytedance)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/bytedance.png" width="60" height ="60" align=right />
+- **后端开发实习生 字节跳动 (Backend Development Intern, Bytedance)** <img src="/assets/img/bytedance.png" width="60" height ="60" align=right />
   - 2018.06 ~ 2019.07
   - 飞书-核心服务 (Lark - Lark Core Service)
 
