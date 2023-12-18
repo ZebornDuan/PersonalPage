@@ -13,12 +13,12 @@ layout: default
 
 - **硕士 清华大学 (M.S., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
-  - - 2019.08 ~ 2022.06
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
+  - 2019.08 ~ 2022.06
 
 <!-- a brief introduction to the research -->
 
-- **学士 清华大学 (B.E., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
+- **学士 清华大学 (B.E., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
   - 计算机科学与技术系 (Department of Computer Science and Technology) 计算机科学与技术专业 (Major: Computer Science and Technology)
   - 2015.08 ~ 2019.06
 
@@ -54,7 +54,7 @@ layout: default
 
 # 荣誉与奖励 (Honors and Awards)
 
-- 2020.08, [DataCon](https://datacon.qianxin.com/armory)2020 大数据安全竞赛-加密恶意流量检测赛道 冠军, Champion at the DataCon2020 Big Data Security Contest-Encrypted Malicious Traffic Detection Track
+- 2020.08, [DataCon 2020](https://datacon.qianxin.com/armory) 大数据安全竞赛-加密恶意流量检测赛道 冠军, Champion at the DataCon2020 Big Data Security Contest-Encrypted Malicious Traffic Detection Track
 
 - 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
 
