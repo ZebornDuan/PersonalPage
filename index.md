@@ -36,7 +36,7 @@ layout: default
 
 # 实习经历 (Internship) 
 
-- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/kwai.jpeg" width="80" height ="54" align=right />
+- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="https://github.com/ZebornDuan/page/blob/main/assets/img/kwai.jpeg" width="60" height ="54" align=right />
   - 2021.12 ~ 2022.01
   - 研发线-用户理解中心 (R&D line - User Understanding Center)
 
