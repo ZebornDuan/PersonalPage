@@ -26,8 +26,8 @@ layout: default
 
 # 工作经历 (Work)
 
-- **应用算法工程师 阿里云 (Alibaba Cloud, Application Algorithm Engineer)** <img src="/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
-  - 基础设施事业部-天基-云资源智能化 (Alibaba Cloud - Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
+- **应用算法工程师 阿里云 (Application Algorithm Engineer, Alibaba Cloud)** <img src="/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
+  - 基础设施事业部-天基-云资源智能化 (Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
   - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
 
 * * *
@@ -93,7 +93,6 @@ layout: default
 # 专利 (Patents)
 
 - 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，PCT/CN2021/105260
-
 - 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6，已授权
-
 - 杨家海，**段晨鑫**，王之梁；基于包长概率分布与k近邻算法的物联网设备识别方法，202011506345.7，已授权
+- 杨家海，樊琳娜，张世泽，王之梁，**段晨鑫**；基于半监督学习的物联网设备识别方法及装置，202011127566.2，已授权
