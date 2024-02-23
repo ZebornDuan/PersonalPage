@@ -92,7 +92,7 @@ layout: default
 
 # 专利 (Patents)
 
-- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，PCT/CN2021/105260
+- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，[PCT/CN2021/105260](https://patentimages.storage.googleapis.com/b6/ae/91/c713265d1e4b47/US20220303198A1.pdf)
   
 - 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6，已授权
   
