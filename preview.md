@@ -64,6 +64,7 @@ layout: default
 * * *
 
 # 论文发表 (Publications)
+- Wenqi Chen, Zhiliang Wang, Liyuan Chang, Kai Wang, Ying Zhong, Dongqi Han, **Chenxin Duan**, Xia Yin, Jiahai Yang, Xingang Shi. "Network Anomaly Detection via Similarity-aware Ensemble Learning with ADSim." Computer Networks. 2024.
 
 - Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024.
 
