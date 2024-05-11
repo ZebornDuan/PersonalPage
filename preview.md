@@ -58,7 +58,8 @@ layout: default
 
 - 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
 
-- 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure
+- 2023.04, 天基FY23财年年度最佳新人奖, Rookie of the Year in FY23 at Apsara Infrastructure
+- 2024.05, 天基FY24财年年度最佳创新奖, Best Innovation Award in FY24 at Apsara Infrastructure
 
 * * *
 
