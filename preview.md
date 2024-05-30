@@ -27,7 +27,7 @@ layout: default
 # 工作经历 (Work)
 
 - **应用算法工程师 阿里云 (Application Algorithm Engineer, Alibaba Cloud)** <img src="/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
-  - 基础设施事业部-天基-云资源智能化 (Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
+  - 天基-云资源智能化 (Tianji - Cloud Resource Intelligentization) | 灵骏产品研发-AI资源效能优化 (Lingjun Product R&D - AI Resource Efficiency Optimization)
   - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
 
 * * *
