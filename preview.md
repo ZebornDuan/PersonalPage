@@ -64,31 +64,31 @@ layout: default
 * * *
 
 # 论文发表 (Publications)
-- Wenqi Chen, Zhiliang Wang, Liyuan Chang, Kai Wang, Ying Zhong, Dongqi Han, **<font color=red>Chenxin Duan</font>**, Xia Yin, Jiahai Yang, Xingang Shi. "Network Anomaly Detection via Similarity-aware Ensemble Learning with ADSim." Computer Networks. 2024.
+- Wenqi Chen, Zhiliang Wang, Liyuan Chang, Kai Wang, Ying Zhong, Dongqi Han, **Chenxin Duan**, Xia Yin, Jiahai Yang, Xingang Shi. "Network Anomaly Detection via Similarity-aware Ensemble Learning with ADSim." Computer Networks. 2024.
 
-- Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **<font color=red>Chenxin Duan</font>**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024.
+- Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024.
 
-- **<font color=red>Chenxin Duan</font>**, Sainan Li, Hai Lin, Wenqi Chen, Guanglei Song, Chenglong Li, Jiahai Yang, Zhiliang Wang. "IoTa: Fine-grained Traffic Monitoring for IoT Devices via Fully Packet-level Models." IEEE Transactions on Dependable and Secure Computing (TDSC). 2023.
+- **Chenxin Duan**, Sainan Li, Hai Lin, Wenqi Chen, Guanglei Song, Chenglong Li, Jiahai Yang, Zhiliang Wang. "IoTa: Fine-grained Traffic Monitoring for IoT Devices via Fully Packet-level Models." IEEE Transactions on Dependable and Secure Computing (TDSC). 2023.
 
-- Linna Fan, Chenglong Li, Yichao Wu, **<font color=red>Chenxin Duan</font>**, Zhiliang Wang, Hai Lin, Jiahai Yang. "Survey on IoT Device Identification and Anomaly Detection." Journal of Software (软件学报). 2023.
+- Linna Fan, Chenglong Li, Yichao Wu, **Chenxin Duan**, Zhiliang Wang, Hai Lin, Jiahai Yang. "Survey on IoT Device Identification and Anomaly Detection." Journal of Software (软件学报). 2023.
 
-- Guanglei Song, Jiahai Yang, Lin He, Zhiliang Wang, Guo Li, **<font color=red>Chenxin Duan</font>**, Yaozhong Liu, Zhongxiang Sun. "AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System." USENIX Annual Technical Conference (ATC). 2022
+- Guanglei Song, Jiahai Yang, Lin He, Zhiliang Wang, Guo Li, **Chenxin Duan**, Yaozhong Liu, Zhongxiang Sun. "AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System." USENIX Annual Technical Conference (ATC). 2022
 
-- Wenqi Chen, Zhiliang Wang, Dongqi Han, **<font color=red>Chenxin Duan</font>**, Jiahai Yang, Xingang Shi and Xia Yin. "ROV-MI: Large-scale, Accurate and Efficient Measurement of ROV Deployment." Network and Distributed System Security Symposium (NDSS). 2022.
+- Wenqi Chen, Zhiliang Wang, Dongqi Han, **Chenxin Duan**, Jiahai Yang, Xingang Shi and Xia Yin. "ROV-MI: Large-scale, Accurate and Efficient Measurement of ROV Deployment." Network and Distributed System Security Symposium (NDSS). 2022.
 
-- **<font color=red>Chenxin Duan</font>**, Kai Wang, Wenqi Chen, Guanglei Song, Jiahai Yang and Zhiliang Wang, "Monitoring Smart Home Traffic under Differential Privacy." IFIP/IEEE Network Operations and Management Symposium (NOMS). 2022 
+- **Chenxin Duan**, Kai Wang, Wenqi Chen, Guanglei Song, Jiahai Yang and Zhiliang Wang, "Monitoring Smart Home Traffic under Differential Privacy." IFIP/IEEE Network Operations and Management Symposium (NOMS). 2022 
 
-- **<font color=red>Chenxin Duan</font>**, Hao Gao, Guanglei Song, Jiahai Yang and Zhiliang Wang, "ByteIoT: a Practical IoT Device Identification System based on Packet Length Distribution." IEEE Transactions on Network and Service Management (TNSM). 2021.
+- **Chenxin Duan**, Hao Gao, Guanglei Song, Jiahai Yang and Zhiliang Wang, "ByteIoT: a Practical IoT Device Identification System based on Packet Length Distribution." IEEE Transactions on Network and Service Management (TNSM). 2021.
 
-- Guanglei Song, Jiahai Yang, Zhiliang Wang, Lin He, Jinlei Lin, Long Pan, **<font color=red>Chenxin Duan</font>** and Xiaowen Quan. "DET: Enabling Efficient Probing of IPv6 Active Addresses." IEEE/ACM Transactions on Networking (ToN). 2021.
+- Guanglei Song, Jiahai Yang, Zhiliang Wang, Lin He, Jinlei Lin, Long Pan, **Chenxin Duan** and Xiaowen Quan. "DET: Enabling Efficient Probing of IPv6 Active Addresses." IEEE/ACM Transactions on Networking (ToN). 2021.
 
-- **<font color=red>Chenxin Duan</font>**, Shize Zhang, Jiahai Yang, Zhiliang Wang, Yang Yang and Jia Li, "Pinball: Universal and Robust Signature Extraction for Smart Home Devices." IFIP/IEEE International Symposium on Integrated Network Management (IM). 2021.
+- **Chenxin Duan**, Shize Zhang, Jiahai Yang, Zhiliang Wang, Yang Yang and Jia Li, "Pinball: Universal and Robust Signature Extraction for Smart Home Devices." IFIP/IEEE International Symposium on Integrated Network Management (IM). 2021.
 
-- Wenqi Chen, Zhiliang Wang, Ying Zhong, Dongqi Han, **<font color=red>Chenxin Duan</font>**, Xia Yin and Jiahai Yang. "AdSim: Network Anomaly Detection via Similarity Aware Heterogeneous Ensemble Learning." IFIP/IEEE International Symposium on Integrated Network Management (IM). 2021.
+- Wenqi Chen, Zhiliang Wang, Ying Zhong, Dongqi Han, **Chenxin Duan**, Xia Yin and Jiahai Yang. "AdSim: Network Anomaly Detection via Similarity Aware Heterogeneous Ensemble Learning." IFIP/IEEE International Symposium on Integrated Network Management (IM). 2021.
 
-- **<font color=red>Chenxin Duan</font>**, Jia Li , Dongqi Han, Linna Fan, Shize Zhang, Jiahai Yang and Zhiliang Wang, "Towards the Adaptability of Traffic-based IoT Security Management Systems to the Device Behaviors Evolutions." EAI International Conference on Applied Cryptography in Computer and Communications (EAI AC3). 2021.
+- **Chenxin Duan**, Jia Li , Dongqi Han, Linna Fan, Shize Zhang, Jiahai Yang and Zhiliang Wang, "Towards the Adaptability of Traffic-based IoT Security Management Systems to the Device Behaviors Evolutions." EAI International Conference on Applied Cryptography in Computer and Communications (EAI AC3). 2021.
 
-- Linna Fan, Shize Zhang, Yichao Wu, Zhiliang Wang, **<font color=red>Chenxin Duan</font>** and Jiahai Yang. "An IoT Device Identification Method based on Semi-supervised Learning." IEEE International Conference on Network and Service Management (CNSM). 2020.
+- Linna Fan, Shize Zhang, Yichao Wu, Zhiliang Wang, **Chenxin Duan** and Jiahai Yang. "An IoT Device Identification Method based on Semi-supervised Learning." IEEE International Conference on Network and Service Management (CNSM). 2020.
 
 * * *
 
