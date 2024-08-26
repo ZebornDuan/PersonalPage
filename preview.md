@@ -93,6 +93,7 @@ layout: default
 * * *
 
 # 专利 (Patents)
+- 王之梁，陈闻起，施新刚，韩东岐，尹霞，**段晨鑫**，杨家海；一种大规模准确高效的路由源验证部署测量方法和装置，202210405544.0，已授权
 
 - 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，[PCT/CN2021/105260](https://patentimages.storage.googleapis.com/b6/ae/91/c713265d1e4b47/US20220303198A1.pdf)
   
