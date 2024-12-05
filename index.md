@@ -11,14 +11,14 @@ layout: default
 
 * * *
 
-- **硕士 清华大学 (M.S., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
+- **硕士 清华大学 (M.S., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
   - 网络科学与网络空间研究院 (Institute for Network Sciences and Cyberspace) 网络空间安全专业 (Major: Cyberspace Security)
   - 导师: [杨家海 教授](http://nmgroup.tsinghua.edu.cn/yjh/) (Supervisor: Professor. [Jiahai Yang](http://nmgroup.tsinghua.edu.cn/dryang/index.htm))
   - 2019.08 ~ 2022.06
 
 <!-- a brief introduction to the research -->
 
-- **学士 清华大学 (B.E., Tsinghua University)** <img src="/page/assets/img/thu.png" width="60" height ="60" align=right />
+- **学士 清华大学 (B.E., Tsinghua University)** <img src="/assets/img/thu.png" width="60" height ="60" align=right />
   - 计算机科学与技术系 (Department of Computer Science and Technology) 计算机科学与技术专业 (Major: Computer Science and Technology)
   - 2015.08 ~ 2019.06
 
@@ -27,14 +27,14 @@ layout: default
 # 工作经历 (Work)
 
 - **应用算法工程师 阿里云 (Application Algorithm Engineer, Alibaba Cloud)** <img src="/page/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
-  - 基础设施事业部-天基-云资源智能化 (Apsara Infrastructure Service - Tianji - Cloud Resource Intelligentization)
+  - 天基-云资源智能化 (Tianji - Cloud Resource Intelligentization) <!--  | EGS&灵骏产品研发-AI资源效能优化 (EGS(Elastic GPU Service) & Lingjun Product R&D - AI Resource Efficiency Optimization) -->
   - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
 
 * * *
 
 # 实习经历 (Internship) 
 
-- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="/page/assets/img/kwai.jpeg" width="60" height ="54" align=right />
+- **数据挖掘实习生 快手科技 (Data Mining Intern, Kwai)** <img src="/assets/img/kwai.jpeg" width="60" height ="54" align=right />
   - 研发线-用户理解中心 (R&D line - User Understanding Center)
   - 2021.12 ~ 2022.01
 
@@ -58,11 +58,13 @@ layout: default
 
 - 2022.06, 北京市优秀毕业生 网络研究院优秀毕业生, Outstanding Graduates in Beijing city & Institute for Network Sciences and Cyberspace
 
-- 2023.04, 天基F23财年年度最佳新人, Rookie of the Year in FY23 at Apsara Infrastructure
+- 2023.04, 天基FY23财年年度最佳新人奖, Rookie of the Year in FY23 at Apsara Infrastructure
+- 2024.05, 天基FY24财年年度最佳创新奖, Best Innovation Award in FY24 at Apsara Infrastructure
 
 * * *
 
 # 论文发表 (Publications)
+- Wenqi Chen, Zhiliang Wang, Liyuan Chang, Kai Wang, Ying Zhong, Dongqi Han, **Chenxin Duan**, Xia Yin, Jiahai Yang, Xingang Shi. "Network Anomaly Detection via Similarity-aware Ensemble Learning with ADSim." Computer Networks. 2024.
 
 - Hai Lin, Chenglong Li, Jiahai Yang, Zhiliang Wang, Linna Fan, **Chenxin Duan**. "CP-IoT: a Cross-Platform Monitoring System for Smart Home." Network and Distributed System Security Symposium (NDSS). 2024.
 
@@ -91,12 +93,12 @@ layout: default
 * * *
 
 # 专利 (Patents)
+- 王之梁，陈闻起，施新刚，韩东岐，尹霞，**段晨鑫**，杨家海；一种大规模准确高效的路由源验证部署测量方法和装置，202210405544.0，已授权
 
-- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，PCT/CN2021/105260
-
+- 杨家海，**段晨鑫**，王之梁，张辉；基于自动机的物联网设备流量建模、异常检测方法和装置，20210064051.0，已授权 国际专利 Method and Apparatus for Detecting Anomaly of Traffic of Internet of Things Device based on Automata，[PCT/CN2021/105260](https://patentimages.storage.googleapis.com/b6/ae/91/c713265d1e4b47/US20220303198A1.pdf), [US012120002B2](https://patentimages.storage.googleapis.com/ab/d8/2f/f31d5dc543d176/US12120002.pdf), Authorized
+  
 - 杨家海，**段晨鑫**，王之梁，张辉； 通用且鲁棒的智能家居设备事件指纹提取方法和装置，202110220363.6，已授权
-
+  
 - 杨家海，**段晨鑫**，王之梁；基于包长概率分布与k近邻算法的物联网设备识别方法，202011506345.7，已授权
-
+  
 - 杨家海，樊琳娜，张世泽，王之梁，**段晨鑫**；基于半监督学习的物联网设备识别方法及装置，202011127566.2，已授权
-
