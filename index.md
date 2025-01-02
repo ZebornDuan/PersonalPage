@@ -27,6 +27,7 @@ layout: default
 # 工作经历 (Work)
 
 - **应用算法工程师 阿里云 (Application Algorithm Engineer, Alibaba Cloud)** <img src="/page/assets/img/aliyun.jpeg" width="60" height ="60" align=right />
+  - 弹性计算-[EGS](https://help.aliyun.com/zh/egs/)&[灵骏产品](https://help.aliyun.com/zh/pai/user-guide/lingjun-smart-calculation-resources-single-tenant-edition)研发-AI资源效能优化 (Elastic Computing - Elastic GPU Service & Lingjun Product Research and Development - AI Resource Efficiency Optimization)
   - 天基-云资源智能化 (Tianji - Cloud Resource Intelligentization)
   - 2022-07 ~  <!--  校园招聘特殊人才计划: 评级A+ (Campus Recruitment Special Offer: Rank A+) -->
 
